@@ -1,6 +1,3 @@
-//Assignment 6 (Medium) – Multiple Inheritance, Virtual Functions, and Friend Classes in an Indian Educational Institute
-//23UAM132
-
 #include<iostream>
 #include<string>
 
